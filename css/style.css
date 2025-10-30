@@ -4,6 +4,13 @@ body {
 h1 {
     color: #444;
 }
-h2 {
-    color:floralwhite
+#main-title {
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+h2{
+    color: aliceblue;
+}
+.centered-heading {
+    text-align: center;
 }
